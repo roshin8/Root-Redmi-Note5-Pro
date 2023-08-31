@@ -7,7 +7,7 @@
 
 - Install TWRP
   - https://dl.twrp.me/whyred
-  - File name incase if the link above doesn't work for googling purposes- `twrp-3.7.0_9-0-whyred.img`
+  - File name incase if the link above doesn't work for googling purposes - `twrp-3.7.0_9-0-whyred.img`
 
 - Install Magisk
   - https://magisk.me/zip/  (Unofficial)
@@ -19,7 +19,7 @@
   - This is alternative for Xposed module as Xposed is for lower Android versions (I think)
 
 Additional Resources:
-- If issue with fastboot not recognizing detecting device
+- If issue with fastboot not detecting device
   - https://www.qasimtricks.com/2022/01/fix-fastboot-not-detecting-device.html
   - https://forum.xda-developers.com/t/fastboot-cannot-recognize-device-but-adb-can.4040635/page-2
   - https://android.stackexchange.com/questions/46142/fastboot-doesnt-see-device
