@@ -7,6 +7,7 @@
 
 - Install TWRP
   - https://dl.twrp.me/whyred
+  - File name incase if the link above doesn't work for googling purposes- `twrp-3.7.0_9-0-whyred.img`
 
 - Install Magisk
   - https://magisk.me/zip/  (Unofficial)
