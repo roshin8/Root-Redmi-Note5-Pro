@@ -19,7 +19,8 @@
   - This is alternative for Xposed module as Xposed is for lower Android versions (I think)
     - List of modules to install
       - https://github.com/NVISOsecurity/MagiskTrustUserCerts
-      - SSLUnpinning
+      - `SSLUnpinning`
+      - `TrustMeAlready`
 
 Additional Resources:
 - If issue with fastboot not detecting device
