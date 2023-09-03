@@ -26,3 +26,8 @@ Additional Resources:
   - https://www.qasimtricks.com/2022/01/fix-fastboot-not-detecting-device.html
   - https://forum.xda-developers.com/t/fastboot-cannot-recognize-device-but-adb-can.4040635/page-2
   - https://android.stackexchange.com/questions/46142/fastboot-doesnt-see-device
+
+Intercepting Android Traffic with Burp
+  - https://blog.ropnop.com/configuring-burp-suite-with-android-nougat
+  - https://www.secureideas.com/blog/2020/07/proxying-https-traffic-with-burp-suite.html
+  - https://hackertarget.com/proxy-phone-burp/
