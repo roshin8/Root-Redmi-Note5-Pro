@@ -27,7 +27,16 @@ Additional Resources:
   - https://forum.xda-developers.com/t/fastboot-cannot-recognize-device-but-adb-can.4040635/page-2
   - https://android.stackexchange.com/questions/46142/fastboot-doesnt-see-device
 
-Intercepting Android Traffic with Burp
+- Intercepting Android Traffic with Burp
   - https://blog.ropnop.com/configuring-burp-suite-with-android-nougat
   - https://www.secureideas.com/blog/2020/07/proxying-https-traffic-with-burp-suite.html
   - https://hackertarget.com/proxy-phone-burp/
+  - https://pswalia2u.medium.com/install-burpsuites-or-any-ca-certificate-to-system-store-in-android-10-and-11-38e508a5541a
+
+- Value Read on SSL Unpinning
+  - https://www.netspi.com/blog/technical/mobile-application-penetration-testing/four-ways-bypass-android-ssl-verification-certificate-pinning/
+  - https://medium.com/@anuj.rai2489/ssl-pinning-254fa8ca2109
+  - https://www.youtube.com/watch?v=CJR_BSIStmE
+  - https://ninjutsu-blog.github.io/2021/06/27/How-to-setup-Ninjutsu-Android-Penetration-Testing-Environment/
+  - https://koz.io/using-frida-on-android-without-root/
+  - https://github.com/sensepost/objection
